@@ -1,0 +1,16 @@
+{
+  "name": "roblox-clothing-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord para criar roupas Roblox com IA",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-fetch": "^2.6.7",
+    "form-data": "^4.0.0",
+    "dotenv": "^16.3.1"
+  }
+}
